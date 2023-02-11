@@ -1,2 +1,2 @@
 # BIGREDBUTTON
-link: https://arunjackson.github.io/BIGREDBUTTON/
+Website: https://arunjackson.github.io/BIGREDBUTTON/
